@@ -1,0 +1,11 @@
+Detection of enemy fleet [...]
+[...]
+Naval ships tries to hit enemy ships every hour, while air battles inside naval battles happens every 8 hours (just like in normal air battles at 8:00 16:00 and 24:00)
+Aircraft Carriers section
+Firstly, air battle must be done, because naval strikes comes after them
+
+In air battles, attacks happen every 8 hours (8, 16, 24)
+Most probably, all planes in the air are visible, because detection efficiency would be like 1% in most cases. Visibility most probably isn't affected by weather (de-buff is not present in weather pop-up).
+"Naval mission efficiency", "port strikes" modifiers definitely does not affect planes in naval battles (planes there do "carrier mission")
+However, fighters probably execute some sort of air superiority mission (shooting enemy fighters in every case) and they disturb enemy naval bombers (disrupting planes can have a unique carrier bonus)
+If detection can be lower than 100%, then fighters probably will be still fully visible, because of the supposed air superiority mission (planes on this mission escort friendly ground mission, for example by exposing themselves fully to the enemy, so ground mission planes would take less of total visibility, taking less damage)

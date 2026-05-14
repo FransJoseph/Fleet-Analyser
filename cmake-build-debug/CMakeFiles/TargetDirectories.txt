@@ -1,0 +1,3 @@
+D:/Fszystko i nic/Chłopaki TEN ZBIÓR/PLEJERKI/Projekty/Fleet_Analyser/cmake-build-debug/CMakeFiles/Fleet_Analyser.dir
+D:/Fszystko i nic/Chłopaki TEN ZBIÓR/PLEJERKI/Projekty/Fleet_Analyser/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fszystko i nic/Chłopaki TEN ZBIÓR/PLEJERKI/Projekty/Fleet_Analyser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
