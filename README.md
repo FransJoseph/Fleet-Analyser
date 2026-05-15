@@ -16,7 +16,7 @@ Download ZIP, unpack it and run it with C++ compiler of your choice.
 ## Spreadsheet
 
 Before going to program itself, there is a spreadsheet made with some gfx that show simplified calculations made by program.  
-You can plug in your numbers show in game in the panel and see the simplified resoults.
+You can plug in your numbers shown in game in the panel and see the simplified resoults.
 
 ## Program
 
