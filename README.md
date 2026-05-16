@@ -26,6 +26,6 @@ After "=", there is a number that is your modifier. File have some of them fille
 
 After you changed the inputs to ones you want, go to the compiler and run the program.  
 In the console, there will be information about current hour, day/night cycle, information if any crits were made, and who is doing what.  
-Below that, there will be calculation results of various phases, finished with damage done to booth sides of the battle.
+Below that, there will be calculation results of various phases, finished with damage done to both sides of the battle.
 
 Enjoy your testing!
